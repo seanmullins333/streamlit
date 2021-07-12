@@ -1,1 +1,2 @@
 streamlit==0.84.0
+simple-salesforce==1.11.2
