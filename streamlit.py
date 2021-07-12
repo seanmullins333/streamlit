@@ -5,7 +5,6 @@ import csv
 import pandas as pd
 from io import StringIO
 import datetime
-import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 warnings.filterwarnings('ignore')
